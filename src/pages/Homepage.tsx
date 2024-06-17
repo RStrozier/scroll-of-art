@@ -1,9 +1,14 @@
-import BlobBackground from "../assets/BlobBackground"
+import BlueBlob from "../assets/BlueBlob"
+import LightWaves from "../assets/LightWaves"
+import PinkBlob from "../assets/PinkBlob"
+
 
 const Homepage = () => {
   return (
     <>
-    <BlobBackground />
+    <PinkBlob />
+    <BlueBlob />
+    <LightWaves />
     </>
   )
 }
